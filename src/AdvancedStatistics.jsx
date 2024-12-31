@@ -5,17 +5,17 @@ function AdvancedStatistics() {
     {
       title: "Brand Recognition",
       text: "Boost your brand recognition with each click. Generic links don't mean a thing. Branded links help instil confidence in your content",
-      imgPath: "/src/assets/images/icon-brand-recognition.svg",
+      imgPath: "./images/icon-brand-recognition.svg",
     },
     {
       title: "Detailed Records",
       text: "Gain insights into who is clicking your links. knowing when and where people engage with your content helps inform better decisions.",
-      imgPath: "/src/assets/images/icon-detailed-records.svg",
+      imgPath: "./images/icon-detailed-records.svg",
     },
     {
       title: "Fully Customizable",
       text: "Improve brand awareness and content discoverability through customizable links, supercharging audience engagement",
-      imgPath: "/src/assets/images/icon-fully-customizable.svg",
+      imgPath: "./images/icon-fully-customizable.svg",
     },
   ];
   return (

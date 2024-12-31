@@ -3,7 +3,7 @@ function NavBar() {
         <nav className="nav">
             <ul className="nav__links">
                 <li>
-                    <img className="nav__logo" src="/src/assets/images/logo.svg" alt="logo urlShortening" />
+                    <img className="nav__logo" src="./images/logo.svg" alt="logo urlShortening" />
                 </li>
                 <li>
                     <a href="#"  className="btn nav__link-btn">Features</a>

@@ -7,7 +7,7 @@ function Hero() {
                 <div><a href="#" className="btn start-btn">Get Started</a></div>
             </div>
             <div className="hero__img">
-                <img src="/src/assets/images/illustration-working.svg" />
+                <img src="./images/illustration-working.svg" />
             </div>
         </div>
     )
